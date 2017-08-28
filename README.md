@@ -1,0 +1,2 @@
+# errbotplugins
+for errbotplugins
